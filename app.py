@@ -29,5 +29,5 @@ def predict():
         return jsonify(result=label)
     return None
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     app.run(debug=True)
