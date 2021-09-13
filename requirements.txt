@@ -2,4 +2,4 @@ Flask
 numpy
 Pillow
 gunicorn
-opencv-python
+opencv-python-headless
